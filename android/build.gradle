@@ -51,4 +51,3 @@ ext {
     groupId = 'com.taobao.fleamarket'
     artifactId = "FlutterBoost"
 }
-
